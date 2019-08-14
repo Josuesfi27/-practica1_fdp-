@@ -1,2 +1,2 @@
 # -practica1_fdp-
-Realizaremos la practica 1
+Práctica 1 de Fundamentos de Programación
